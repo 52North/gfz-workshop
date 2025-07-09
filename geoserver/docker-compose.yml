@@ -7,7 +7,7 @@ services:
       #WEBAPP_CONTEXT: "geoserver"
       #PROXY_BASE_URL: "http://localhost:8080/geoserver"
       #ROOT_WEBAPP_REDIRECT: "true"
-      STABLE_EXTENSIONS: "ogcapi-features,css,csw,csw-iso,wps,importer"
+      STABLE_EXTENSIONS: "ogcapi-features,css,csw,csw-iso,wps"
       CORS_ENABLED: "true"
       CORS_ALLOWED_ORIGINS: "*"
       COMMUNITY_EXTENSIONS: ""
