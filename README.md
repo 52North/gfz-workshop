@@ -6,11 +6,11 @@
 
 ## GeoServer
 
-**Slides:** https://docs.google.com/presentation/d/1t_ug7bgQ1ZCwiZhPdMDDrkkgWc5R9450uLWeTLBWEVw
+**Slides:** https://docs.google.com/presentation/d/1Oi0QFpcrXf_2aUyRaPbRllqfFGIVhwIDDZ0WCra4sZs
 
 ## GeoNode
 
-**Slides:** https://docs.google.com/presentation/d/1x0qTlZqlsa1r-mnNXpvAqS6SQPNoiCNSU54k2zB7xOQ
+**Slides:** https://docs.google.com/presentation/d/1G3zlQo5IIpwjei-OS-R58dVaP0oPRFkarpselBIjxJo
 
 Das `geonode-blueprint-docker` Repository ist als Submodule eingebunden.
 Um das Module vollständig zu initialisieren, muss das darin liegende Submodule `externalapplications` initialisiert werden:
